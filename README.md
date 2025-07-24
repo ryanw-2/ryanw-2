@@ -7,7 +7,7 @@ Welcome! Find my projects below.
 ### [Experience 2D Sketches](https://github.com/ryanw-2/w2)
 Processing architecture hand sketches into 3D walkthrough environments and StableDiffusion-powered moodboard generator.
 
-![Animation Placeholder](placeholder-animation-1.gif)
+![Animation Placeholder](w2-placeholder.jpg)
 *Full pipeline walkthrough user demo*
 
 ---
@@ -15,7 +15,7 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 ### [Bamboo Greenhouse Virtual Twin](https://github.com/ryanw-2/sankofa_twin)
 Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
 
-![Animation Placeholder](placeholder-animation-2.mov)
+![Animation Placeholder](sankofa-placeholder.JPG)
 *Intended client use demo*
 
 ---
@@ -23,7 +23,7 @@ Predictive greenhouse conditions simulation engine for resource optimization, ed
 ### [CMU Maps](https://github.com/ScottyLabs/cmumaps)
 Front-End Developer working on Carnegie Mellon's go-to app for finding food, classes, and events all across campus.
 
-![Animation Placeholder](placeholder-animation-3.gif)
+![Animation Placeholder](cmumaps-demo.gif)
 *Key desktop app features*
 
 ---
@@ -31,7 +31,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 ### [Taskman](https://github.com/ryanw-2/taskman)
 Playful experimentation with hand gesture and voice-controlled interface
 
-![Animation Placeholder](placeholder-animation-4.mov)
+![Animation Placeholder](taskman-hero.JPG)
 *Intended client use demo*
 
 ---
