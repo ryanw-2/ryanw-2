@@ -7,7 +7,7 @@ Welcome! Find my projects below.
 ### [Experience 2D Sketches](https://github.com/ryanw-2/w2)
 Processing architecture hand sketches into 3D walkthrough environments and StableDiffusion-powered moodboard generator.
 
-![Animation Placeholder](w2-placeholder.jpg)
+![Animation Placeholder](w2-placeholder.png)
 *Full pipeline walkthrough user demo*
 
 ---
