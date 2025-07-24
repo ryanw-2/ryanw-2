@@ -1,5 +1,3 @@
-# Ryan Wang
-
 Welcome! Find my projects below.
 
 ---
