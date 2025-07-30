@@ -7,7 +7,7 @@ Welcome! Find my projects below.
 ### [Experience 2D Sketches](https://github.com/ryanw-2/w2)
 Processing architecture hand sketches into 3D walkthrough environments and StableDiffusion-powered moodboard generator.
 
-![Animation Placeholder](w2-placeholder.png)
+<img src="w2-placeholder.png" alt="Animation Placeholder" width="600" />
 *Full pipeline walkthrough user demo*
 
 ---
@@ -15,7 +15,7 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 ### [Bamboo Greenhouse Virtual Twin](https://github.com/ryanw-2/sankofa_twin)
 Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
 
-![Animation Placeholder](sankofa-placeholder.JPG)
+<img src="sankofa-placeholder.JPG" alt="Animation Placeholder" width="600" />
 *Intended client use demo*
 
 ---
@@ -23,7 +23,7 @@ Predictive greenhouse conditions simulation engine for resource optimization, ed
 ### [CMU Maps](https://github.com/ScottyLabs/cmumaps)
 Front-End Developer working on Carnegie Mellon's go-to app for finding food, classes, and events all across campus.
 
-![Animation Placeholder](cmumaps-demo.gif)
+<img src="cmumaps-demo.gif" alt="Animation Placeholder" width="600" />
 *Key desktop app features*
 
 ---
@@ -31,7 +31,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 ### [Taskman](https://github.com/ryanw-2/taskman)
 Playful experimentation with hand gesture and voice-controlled interface
 
-![Animation Placeholder](taskman-hero.JPG)
+<img src="taskman-hero.JPG" alt="Animation Placeholder" width="600" />
 *Intended client use demo*
 
 ---
@@ -59,4 +59,4 @@ I'm a Carnegie Mellon University student studying Computer Science and Architect
 
 ---
 
-*Last updated: 07/23/2025*
+*Last updated: 07/30/2025*
