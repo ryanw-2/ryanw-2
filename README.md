@@ -10,7 +10,6 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 <a href="https://github.com/ryanw-2/w2">
   <img src="w2-placeholder.png" alt="Animation Placeholder" width="600" />
 </a>
-*Tech Stack: Grasshopper, C#, Python, OpenCV, StableDiffusion*
 
 ---
 
@@ -20,7 +19,6 @@ Predictive greenhouse conditions simulation engine for resource optimization, ed
 <a href="https://github.com/ryanw-2/sankofa_twin">
   <img src="sankofa-placeholder.JPG" alt="Animation Placeholder" width="600" />
 </a>
-*Tech Stack: Three.js, Javascript, Vite, Streamlit, Python, Pandas*
 
 ---
 
@@ -30,7 +28,6 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 <a href="https://github.com/ScottyLabs/cmumaps">
   <img src="cmumaps-demo.gif" alt="Animation Placeholder" width="600" />
 </a>
-*Tech Stack: React, Typescript, Vite*
 
 ---
 
@@ -40,7 +37,6 @@ Playful experimentation with hand gesture and voice-controlled interface
 <a href="https://github.com/ryanw-2/taskman">
   <img src="taskman-hero.JPG" alt="Animation Placeholder" width="600" />
 </a>
-*Tech Stack: React, Javascript, Vite, FastAPI, Python, GCP, MediaPipe, OpenCV*
 
 ---
 
