@@ -8,7 +8,7 @@ Welcome! Find my projects below.
 Processing architecture hand sketches into 3D walkthrough environments and StableDiffusion-powered moodboard generator.
 
 <a href="https://github.com/ryanw-2/w2">
-  <img src="w2-placeholder.png" alt="Animation Placeholder" width="600" />
+  <img src="sHero_combined.mp4" alt="Animation" width="600" />
 </a>
 
 ---
