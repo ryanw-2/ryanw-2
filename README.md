@@ -63,4 +63,4 @@ I'm a Carnegie Mellon University student studying Computer Science and Architect
 
 ---
 
-*Last updated: 07/30/2025*
+*Last updated: 08/03/2025*
