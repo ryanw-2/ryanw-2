@@ -5,10 +5,10 @@ Welcome! Find my projects below.
 ## Selected Work
 
 ### [Experience 2D Sketches](https://github.com/ryanw-2/w2)
-Processing architecture hand sketches into 3D walkthrough environments and StableDiffusion-powered moodboard generator.
+Processing architecture hand sketches into 3D walkthrough environments and Stable Diffusion moodboard generator.
 
 <a href="https://github.com/ryanw-2/w2">
-  <img src="sHero_combined.mp4" alt="Animation" width="600" />
+  <img src="sHero_combined.gif" alt="Animation" width="600" />
 </a>
 
 ---
