@@ -49,7 +49,7 @@ Coursework: Data Structures and Algorithms, Functional Programming, Computer Sys
 
 ---
 
-## Education & Certifications
+## Education
 
 I'm a Carnegie Mellon University student studying Computer Science and Architecture, graduating in 2027.
 
