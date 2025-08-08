@@ -13,7 +13,7 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
   <img src="sHero_combined.gif" alt="3DM Animation" width="600" />
 </a>
 
-`#Unity` `#3D Walkthrough` `#User-Generated Content` `#StableDiffusion`
+`Unity` `3D Walkthrough` `User-Generated Content` `StableDiffusion`
 
 ---
 
@@ -24,18 +24,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
   <img src="cmumaps-demo.gif" alt="Key Pages Animation" width="600" />
 </a>
 
-`#React` `#TypeScript` `#RESTAPI`
-
----
-
-### [Bamboo Greenhouse Virtual Twin](https://github.com/ryanw-2/sankofa_twin)
-Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
-
-<a href="https://github.com/ryanw-2/sankofa_twin">
-  <img src="Streamlit-speed.gif" alt="Streamlit Animation" width="600" />
-</a>
-
-`#Python` `#FastAPI` `#Streamlit` `#TensorFlow` `#Simulation`
+`React` `TypeScript` `RESTAPI` `Figma`
 
 ---
 
@@ -46,7 +35,18 @@ Playful experimentation with hand gesture and voice-controlled interface
   <img src="taskman-hero.JPG" alt="Animation Placeholder" width="600" />
 </a>
 
-`#OpenCV` `#MediaPipe` `#VoiceControl` `#GestureRecognition` `#WebSockets`
+`OpenCV` `MediaPipe` `VoiceControl` `GestureRecognition` `WebSockets`
+
+---
+
+### [Bamboo Greenhouse Virtual Twin](https://github.com/ryanw-2/sankofa_twin)
+Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
+
+<a href="https://github.com/ryanw-2/sankofa_twin">
+  <img src="Streamlit-speed.gif" alt="Streamlit Animation" width="600" />
+</a>
+
+`Python` `FastAPI` `Streamlit` `TensorFlow` `Physics Based Simulation`
 
 ---
 
@@ -73,4 +73,4 @@ I'm a Carnegie Mellon University student studying Computer Science and Architect
 
 ---
 
-*Last updated: 08/03/2025*
+*Last updated: 08/08/2025*
