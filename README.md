@@ -13,7 +13,8 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
   <img src="sHero_combined.gif" alt="3DM Animation" width="600" />
 </a>
 
-#StableDiffusion #RealTimeRendering #AI
+`#Unity` `#3D Walkthrough` `#User-Generated Content` `#StableDiffusion`
+
 ---
 
 ### [CMU Maps](https://github.com/ScottyLabs/cmumaps)
@@ -23,7 +24,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
   <img src="cmumaps-demo.gif" alt="Key Pages Animation" width="600" />
 </a>
 
-#React #TypeScript #RESTAPI #Agile
+`#React` `#TypeScript` `#RESTAPI`
 
 ---
 
@@ -34,7 +35,7 @@ Predictive greenhouse conditions simulation engine for resource optimization, ed
   <img src="Streamlit-speed.gif" alt="Streamlit Animation" width="600" />
 </a>
 
-#Python #FastAPI #Streamlit #TensorFlow #Simulation
+`#Python` `#FastAPI` `#Streamlit` `#TensorFlow` `#Simulation`
 
 ---
 
@@ -45,7 +46,7 @@ Playful experimentation with hand gesture and voice-controlled interface
   <img src="taskman-hero.JPG" alt="Animation Placeholder" width="600" />
 </a>
 
-#OpenCV #MediaPipe #VoiceControl #GestureRecognition #WebSockets
+`#OpenCV` `#MediaPipe` `#VoiceControl` `#GestureRecognition` `#WebSockets`
 
 ---
 
