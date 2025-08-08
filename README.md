@@ -8,7 +8,7 @@ Welcome! Find my projects below.
 Processing architecture hand sketches into 3D walkthrough environments and Stable Diffusion moodboard generator.
 
 <a href="https://github.com/ryanw-2/w2">
-  <img src="sHero_combined.gif" alt="Animation" width="600" />
+  <img src="sHero_combined.gif" alt="3DM Animation" width="600" />
 </a>
 
 ---
@@ -17,7 +17,7 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 Front-End Developer working on Carnegie Mellon's go-to app for finding food, classes, and events all across campus.
 
 <a href="https://github.com/ScottyLabs/cmumaps">
-  <img src="cmumaps-demo.gif" alt="Animation Placeholder" width="600" />
+  <img src="cmumaps-demo.gif" alt="Key Pages Animation" width="600" />
 </a>
 
 ---
@@ -26,7 +26,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
 
 <a href="https://github.com/ryanw-2/sankofa_twin">
-  <img src="sankofa-placeholder.JPG" alt="Animation Placeholder" width="600" />
+  <img src="Streamlit.mp4" alt="Dashboard Animation" width="600" />
 </a>
 
 ---
