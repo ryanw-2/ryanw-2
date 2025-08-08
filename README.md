@@ -26,7 +26,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
 
 <a href="https://github.com/ryanw-2/sankofa_twin">
-  <img src="Streamlit.mp4" alt="Dashboard Animation" width="600" />
+  <video width="600">src="Streamlit.mp4" alt="Dashboard Animation"</video>
 </a>
 
 ---
