@@ -1,16 +1,19 @@
 Welcome! Find my projects below.
 
+I’m a Carnegie Mellon Computer Science and Architecture student passionate about building immersive, user-driven 3D experiences. My goal for the upcoming semester is to work on real application research involving computer vision, robotics, and machine learning!
+
 ---
 
 ## Selected Work
 
 ### [Experience 2D Sketches](https://github.com/ryanw-2/w2)
-Processing architecture hand sketches into 3D walkthrough environments and Stable Diffusion moodboard generator.
+Processing architecture hand sketches into 3D walkthrough environments and Stable Diffusion moodboard generator for quick early stage ideation for students, clients, and professors.
 
 <a href="https://github.com/ryanw-2/w2">
   <img src="sHero_combined.gif" alt="3DM Animation" width="600" />
 </a>
 
+#StableDiffusion #RealTimeRendering #AI
 ---
 
 ### [CMU Maps](https://github.com/ScottyLabs/cmumaps)
@@ -19,6 +22,8 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 <a href="https://github.com/ScottyLabs/cmumaps">
   <img src="cmumaps-demo.gif" alt="Key Pages Animation" width="600" />
 </a>
+
+#React #TypeScript #RESTAPI #Agile
 
 ---
 
@@ -29,6 +34,8 @@ Predictive greenhouse conditions simulation engine for resource optimization, ed
   <img src="Streamlit-speed.gif" alt="Streamlit Animation" width="600" />
 </a>
 
+#Python #FastAPI #Streamlit #TensorFlow #Simulation
+
 ---
 
 ### [Taskman](https://github.com/ryanw-2/taskman)
@@ -37,6 +44,8 @@ Playful experimentation with hand gesture and voice-controlled interface
 <a href="https://github.com/ryanw-2/taskman">
   <img src="taskman-hero.JPG" alt="Animation Placeholder" width="600" />
 </a>
+
+#OpenCV #MediaPipe #VoiceControl #GestureRecognition #WebSockets
 
 ---
 
