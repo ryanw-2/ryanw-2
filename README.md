@@ -13,20 +13,20 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 
 ---
 
-### [Bamboo Greenhouse Virtual Twin](https://github.com/ryanw-2/sankofa_twin)
-Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
-
-<a href="https://github.com/ryanw-2/sankofa_twin">
-  <img src="sankofa-placeholder.JPG" alt="Animation Placeholder" width="600" />
-</a>
-
----
-
 ### [CMU Maps](https://github.com/ScottyLabs/cmumaps)
 Front-End Developer working on Carnegie Mellon's go-to app for finding food, classes, and events all across campus.
 
 <a href="https://github.com/ScottyLabs/cmumaps">
   <img src="cmumaps-demo.gif" alt="Animation Placeholder" width="600" />
+</a>
+
+---
+
+### [Bamboo Greenhouse Virtual Twin](https://github.com/ryanw-2/sankofa_twin)
+Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
+
+<a href="https://github.com/ryanw-2/sankofa_twin">
+  <img src="sankofa-placeholder.JPG" alt="Animation Placeholder" width="600" />
 </a>
 
 ---
