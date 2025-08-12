@@ -17,7 +17,7 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 
 ---
 
-### [CMU Maps](https://github.com/ScottyLabs/cmumaps)
+### [CMU Maps](https://github.com/ryanw-2/cmumaps)
 Front-End Developer working on Carnegie Mellon's go-to app for finding food, classes, and events all across campus.
 
 <a href="https://github.com/ryanw-2/cmumaps">
