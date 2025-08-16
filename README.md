@@ -100,6 +100,19 @@ despite cultural and social differences.
 
 ---
 
+### [Middle School Design](https://www.ryanw2.com/the-story-of-mom-and-son)
+
+Technical solar, wind, precipitation, and social analysis of a site to
+build an ecological middle school.
+
+<a href="https://www.ryanw2.com/intersection-nature-education">
+  <img src="sketch.jpg" alt="Middle School Design" width="700" />
+</a>
+
+`Photoshop` `Vray` `Keyshot` `Illustrator` `Grasshopper` `Rhino`
+
+---
+
 ## Contact Information
 
 - **Email:** [ryanw2@andrew.cmu.edu](mailto:ryanw2@andrew.cmu.edu)
