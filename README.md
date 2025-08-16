@@ -67,6 +67,26 @@ I'm a Carnegie Mellon University student studying Computer Science and Architect
 
 ---
 
+## Creative Work
+
+If you are curious of what a Computer Science X Architecture student does, check out some of the design and creative
+work that I'm really excited about too. Throughout this process tools like `Photoshop` and `Illustrator` have been
+critical in developing linework, renders, and client ready presentations!
+
+### [Designing for Benny, a painter who is visually impaired](https://www.ryanw2.com/making-of-a-habit)
+
+<a href="https://www.ryanw2.com/making-of-a-habit">
+  <img src="jamb_detail.jpg" alt="Making of a Habit" width="600" />
+</a>
+
+### [Story of Mom and Son](https://www.ryanw2.com/the-story-of-mom-and-son)
+
+<a href="https://www.ryanw2.com/the-story-of-mom-and-son">
+  <img src="groceryFinal.jpg" alt="Story of Mom and Son" width="600" />
+</a>
+
+---
+
 ## Contact Information
 
 - **Email:** [ryanw2@andrew.cmu.edu](mailto:ryanw2@andrew.cmu.edu)
