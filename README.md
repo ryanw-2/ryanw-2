@@ -100,7 +100,7 @@ despite cultural and social differences.
 
 ---
 
-### [Middle School Design](https://www.ryanw2.com/the-story-of-mom-and-son)
+### [Middle School Design](https://www.ryanw2.com/intersection-nature-education)
 
 Technical solar, wind, precipitation, and social analysis of a site to
 build an ecological middle school.
