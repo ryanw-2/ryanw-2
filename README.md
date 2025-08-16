@@ -1,7 +1,9 @@
 Welcome! Find my projects below.
 
 I’m a rising Carnegie Mellon Computer Science and Architecture Junior passionate about building immersive, user-driven 3D experiences. 
-My goal for the upcoming semester is to work on real application research involving design, computer vision, robotics, and machine learning!
+##  My goal is to bring joy to the community through beautifully designed digital experiences. ##
+
+My research for the upcoming semester is on real application research involving design, computer vision, robotics, and machine learning!
 
 ---
 
