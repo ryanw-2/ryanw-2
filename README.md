@@ -82,6 +82,10 @@ and drafting work.
   <img src="jamb_detail.jpg" alt="Making of a Habit" width="600" />
 </a>
 
+`Photoshop` `Illustrator` `Rhino` `Woodworking`
+
+---
+
 ### [Story of Mom and Son](https://www.ryanw2.com/the-story-of-mom-and-son)
 
 A study of Lawrenceville, Pittsburgh. A design to bring people together
@@ -90,6 +94,8 @@ despite cultural and social differences.
 <a href="https://www.ryanw2.com/the-story-of-mom-and-son">
   <img src="groceryFinal.jpg" alt="Story of Mom and Son" width="600" />
 </a>
+
+`Photoshop` `After Effects` `Illustrator` `Rhino`
 
 ---
 
