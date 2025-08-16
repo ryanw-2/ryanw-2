@@ -3,6 +3,12 @@ Welcome! Find my projects below.
 I’m a rising Carnegie Mellon Computer Science and Architecture Junior passionate about building immersive, user-driven 3D experiences. 
 My research for the upcoming semester is on real application research involving design, computer vision, robotics, and machine learning!
 
+<p align="center">
+  <img src="cmu.png" alt="Logo 1" width="110" />
+  <img src="safeailab.jpg" alt="Logo 2" width="110" style="margin:0 10px;" />
+  <img src="noma.png" alt="Logo 3" width="110" />
+</p>
+
 ---
 
 ##  My goal is to build reliable, creative, and accessible digital experiences that empower others. ##
