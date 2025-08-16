@@ -64,6 +64,8 @@ Design: Figma, Photoshop, Illustrator, InDesign, After Effects, Express, Rhino, 
 
 ## Education
 
+<img src="cmu_poster.jpg" alt="CMU Poster" width="300" />
+
 I'm a Carnegie Mellon University student studying Computer Science and Architecture, graduating in 2027.
 
 ---
