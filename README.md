@@ -1,6 +1,6 @@
 Welcome! Find my projects below.
 
-I’m a Carnegie Mellon Computer Science and Architecture student passionate about building immersive, user-driven 3D experiences. 
+I’m a rising Carnegie Mellon Computer Science and Architecture Junior passionate about building immersive, user-driven 3D experiences. 
 My goal for the upcoming semester is to work on real application research involving design, computer vision, robotics, and machine learning!
 
 ---
