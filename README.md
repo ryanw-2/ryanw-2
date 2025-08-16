@@ -5,7 +5,7 @@ My research for the upcoming semester is on real application research involving 
 
 ---
 
-##  My goal is to bring joy to others through beautifully designed digital experiences. ##
+##  My goal is to build reliable, creative, and accessible digital experiences that empower others. ##
 
 ---
 
