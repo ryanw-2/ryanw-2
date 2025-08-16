@@ -10,7 +10,7 @@ I’m a Carnegie Mellon Computer Science and Architecture student passionate abo
 Processing architecture hand sketches into 3D walkthrough environments and Stable Diffusion moodboard generator for quick early stage ideation for students, clients, and professors.
 
 <a href="https://github.com/ryanw-2/w2">
-  <img src="sHero_combined.gif" alt="3DM Animation" width="600" />
+  <img src="sHero_combined.gif" alt="3DM Animation" width="700" />
 </a>
 
 `Unity` `3D Walkthrough` `User-Generated Content` `StableDiffusion`
@@ -21,7 +21,7 @@ Processing architecture hand sketches into 3D walkthrough environments and Stabl
 Front-End Developer working on Carnegie Mellon's go-to app for finding food, classes, and events all across campus.
 
 <a href="https://github.com/ryanw-2/cmumaps">
-  <img src="cmumaps-demo.gif" alt="Key Pages Animation" width="600" />
+  <img src="cmumaps-demo.gif" alt="Key Pages Animation" width="700" />
 </a>
 
 `React` `TypeScript` `RESTAPI` `Figma`
@@ -32,7 +32,7 @@ Front-End Developer working on Carnegie Mellon's go-to app for finding food, cla
 Playful experimentation with hand gesture and voice-controlled interface
 
 <a href="https://github.com/ryanw-2/taskman">
-  <img src="taskman-hero.JPG" alt="Animation Placeholder" width="600" />
+  <img src="taskman-hero.JPG" alt="Animation Placeholder" width="700" />
 </a>
 
 `OpenCV` `MediaPipe` `VoiceControl` `GestureRecognition` `WebSockets`
@@ -43,7 +43,7 @@ Playful experimentation with hand gesture and voice-controlled interface
 Predictive greenhouse conditions simulation engine for resource optimization, education, and outreach.
 
 <a href="https://github.com/ryanw-2/sankofa_twin">
-  <img src="Streamlit-speed.gif" alt="Streamlit Animation" width="600" />
+  <img src="Streamlit-speed.gif" alt="Streamlit Animation" width="700" />
 </a>
 
 `Python` `FastAPI` `Streamlit` `TensorFlow` `Physics Based Simulation`
@@ -79,7 +79,7 @@ Accessible architecture for a painter who is visually impaired. Detailed interio
 and drafting work.
 
 <a href="https://www.ryanw2.com/making-of-a-habit">
-  <img src="jamb_detail.jpg" alt="Making of a Habit" width="600" />
+  <img src="jamb_detail.jpg" alt="Making of a Habit" width="700" />
 </a>
 
 `Photoshop` `Illustrator` `Rhino` `Woodworking`
@@ -92,7 +92,7 @@ A study of Lawrenceville, Pittsburgh. A design to bring people together
 despite cultural and social differences.
 
 <a href="https://www.ryanw2.com/the-story-of-mom-and-son">
-  <img src="groceryFinal.jpg" alt="Story of Mom and Son" width="600" />
+  <img src="groceryFinal.jpg" alt="Story of Mom and Son" width="700" />
 </a>
 
 `Photoshop` `After Effects` `Illustrator` `Rhino`
