@@ -58,6 +58,7 @@ Tools/Platforms: Git, Docker, Google Cloud, Arduino, Unity, NumPy, Pandas, MATLA
 Coursework: Data Structures and Algorithms, Functional Programming, Computer Systems, Computer Vision
 Design: Figma, Photoshop, Illustrator, InDesign, After Effects, Express, Rhino, Grasshopper
 
+
 ---
 
 ## Education
