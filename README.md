@@ -54,9 +54,9 @@ Predictive greenhouse conditions simulation engine for resource optimization, ed
 
 Languages: Python, Java, C/C++, JavaScript, HTML, CSS, C#, SQL  
 Frameworks/Libraries: React, Vite, Three.js, Tensorflow, OpenCV  
-Tools/Platforms: Git, Docker, Google Cloud, Arduino, Unity, NumPy, Pandas, MATLAB, Grasshopper  
+Tools/Platforms: Git, Docker, Google Cloud, Arduino, Unity, NumPy, Pandas, MATLAB
 Coursework: Data Structures and Algorithms, Functional Programming, Computer Systems, Computer Vision
-
+Design: Figma, Photoshop, Illustrator, InDesign, After Effects, Express, Rhino, Grasshopper
 ---
 
 ## Education
