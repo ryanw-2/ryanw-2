@@ -73,13 +73,19 @@ If you are curious of what a Computer Science X Architecture student does, check
 work that I'm really excited about too. Throughout this process tools like `Photoshop` and `Illustrator` have been
 critical in developing linework, renders, and client ready presentations!
 
-### [Designing for Benny, a painter who is visually impaired](https://www.ryanw2.com/making-of-a-habit)
+### [Designing for Benny](https://www.ryanw2.com/making-of-a-habit)
+
+Accessible architecture for a painter who is visually impaired. Detailed interior design
+and drafting work.
 
 <a href="https://www.ryanw2.com/making-of-a-habit">
   <img src="jamb_detail.jpg" alt="Making of a Habit" width="600" />
 </a>
 
 ### [Story of Mom and Son](https://www.ryanw2.com/the-story-of-mom-and-son)
+
+A study of Lawrenceville, Pittsburgh. A design to bring people together
+despite cultural and social differences.
 
 <a href="https://www.ryanw2.com/the-story-of-mom-and-son">
   <img src="groceryFinal.jpg" alt="Story of Mom and Son" width="600" />
@@ -91,8 +97,8 @@ critical in developing linework, renders, and client ready presentations!
 
 - **Email:** [ryanw2@andrew.cmu.edu](mailto:ryanw2@andrew.cmu.edu)
 - **LinkedIn:** [linkedin.com/in/ryw2](https://linkedin.com/in/ryw2)
-- **Portfolio:** [ryanw2.com](https://ryanw2.com)
+- **Mobile:** 1 (669)-231-9047
 
 ---
 
-*Last updated: 08/08/2025*
+*Last updated: 08/15/2025*
