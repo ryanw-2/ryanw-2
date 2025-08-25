@@ -17,6 +17,18 @@ My research for the upcoming semester is on real application research involving 
 
 ## Selected Work
 
+### [Generalizing Tool Use at Safe AI Lab](https://human2bots.github.io/)
+Developing and training cross-embodiment humanoid manipulation policies using imitation learning to generalize onto quadrupedals and humanoid robots.
+
+<a href="https://human2bots.github.io/">
+  <img src="safe_hero.gif" alt="safe hero" width="700" />
+</a>
+
+`Computer Vision` `Imitation Learning` `Dataset Collection`
+
+---
+
+
 ### [Experience 2D Sketches](https://github.com/ryanw-2/w2)
 Processing architecture hand sketches into 3D walkthrough environments and Stable Diffusion moodboard generator for quick early stage ideation for students, clients, and professors.
 
