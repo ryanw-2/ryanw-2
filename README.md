@@ -21,7 +21,7 @@ My research for the upcoming semester is on real application research involving 
 Developing and training cross-embodiment humanoid manipulation policies using imitation learning to generalize onto quadrupedals and humanoid robots.
 
 <a href="https://human2bots.github.io/">
-  <img src="safe_hero.gif" alt="safe hero" width="700" />
+  <img src="safe_hero.png" alt="safe hero" width="700" />
 </a>
 
 `Computer Vision` `Imitation Learning` `Dataset Collection`
